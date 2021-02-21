@@ -1,0 +1,151 @@
+
+targetdatabase = mysql
+
+correctGetters = true
+
+             
+
+
+
+
+
+
+
+
+
+    BasePeers generated in package vodafone.om
+    BaseObjects generated in package vodafone.om
+    BaseManagers generated in package vodafone.om
+    BaseBeans generated in package vodafone.om.bean
+    Maps generated in package vodafone.om.map
+
+    Created dir: /opt/vodafone/target/generated-sources/torque/vodafone/om/
+
+    Failed to create dir or dir already exists: /opt/vodafone/target/generated-sources/torque/vodafone/om/
+
+    Created dir: /opt/vodafone/target/generated-sources/torque/vodafone/om/map/
+
+
+
+    
+
+        table1
+
+        
+
+        
+
+          
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+    BasePeers generated in package vodafone.om
+    BaseObjects generated in package vodafone.om
+    BaseManagers generated in package vodafone.om
+    BaseBeans generated in package vodafone.om.bean
+    Maps generated in package vodafone.om.map
+
+    Failed to create dir or dir already exists: /opt/vodafone/target/generated-sources/torque/vodafone/om/
+
+    Failed to create dir or dir already exists: /opt/vodafone/target/generated-sources/torque/vodafone/om/
+
+    Failed to create dir or dir already exists: /opt/vodafone/target/generated-sources/torque/vodafone/om/map/
+
+
+
+    
+
+        TURBINE_PERMISSION
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_ROLE
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_GROUP
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_ROLE_PERMISSION
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_USER
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_USER_GROUP_ROLE
+
+        
+
+        
+
+          
+
+
+          
+
+
+
+
+
+
+    
+
+;
+    Created dir: /opt/vodafone/target/generated-sources/torque/org/apache/torque/linkage/
+    
+      
+

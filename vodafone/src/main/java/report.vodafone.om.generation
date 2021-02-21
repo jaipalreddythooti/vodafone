@@ -1,0 +1,125 @@
+
+targetdatabase = mysql
+
+correctGetters = true
+
+             
+
+
+
+
+
+
+
+
+
+    Peers generated in package vodafone.om
+    Objects generated in package vodafone.om
+    Managers generated in package vodafone.om
+    Beans generated in package vodafone.om.bean
+
+    Created dir: /opt/vodafone/src/main/java/vodafone/om/
+
+    Failed to create dir or dir already exists: /opt/vodafone/src/main/java/vodafone/om/
+
+
+
+
+        table1
+
+        
+
+
+          
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+    Peers generated in package vodafone.om
+    Objects generated in package vodafone.om
+    Managers generated in package vodafone.om
+    Beans generated in package vodafone.om.bean
+
+    Failed to create dir or dir already exists: /opt/vodafone/src/main/java/vodafone/om/
+
+    Failed to create dir or dir already exists: /opt/vodafone/src/main/java/vodafone/om/
+
+
+
+
+        TURBINE_PERMISSION
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_ROLE
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_GROUP
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_ROLE_PERMISSION
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_USER
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_USER_GROUP_ROLE
+
+        
+
+
+          
+
+          
+
+
+
